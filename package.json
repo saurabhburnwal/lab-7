@@ -1,0 +1,12 @@
+{
+  "name": "lab-7",
+  "version": "1.0.0",
+  "description": "REST API that serves data for food delivery domain and supports query parameters",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Saurabh Burnwal",
+  "license": "ISC"
+}
